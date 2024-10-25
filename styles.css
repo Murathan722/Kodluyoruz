@@ -1,0 +1,15 @@
+body {
+  color: #ffffff;
+  font-family: Arial, sans-serif;
+}
+
+.text1,
+.text2 {
+  margin-top: 20px;
+}
+
+.clock {
+  font-size: 2em;
+  margin: 20px;
+  color: #00ffcc;
+}
